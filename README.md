@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Naik</h1>
-- 🌱 I’m currently learning **Python and Cloud**
+- 🌱 I’m currently learning Python and Cloud
 
 - 💬 Ask me about **Java,C++,C**
 
